@@ -1,1 +1,3 @@
 # timepass
+
+print("hi!!")
